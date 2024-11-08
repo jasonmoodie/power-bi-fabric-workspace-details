@@ -1,4 +1,4 @@
-# PowerShell Script for Exporting a List of Microsoft Fabric and Power BI Workspaces
+# Export Microsoft Fabric and Power BI Workspaces
 
 
 ```powershell
