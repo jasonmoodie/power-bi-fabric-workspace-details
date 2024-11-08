@@ -1,0 +1,33 @@
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| Analyze Popular Stocks with Power BI| Octojay@example.com| Admin| User| Active| Workspace
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| Analyze Popular Stocks with Power BI| DiegoS@example.com| Viewer| User| Active| Workspace
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| Demo| Octojay@example.com| Admin| User| Active| Workspace
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| Demo| DiegoS@example.com| Viewer| User| Active| Workspace
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| My workspace| Octojay@example.com| Admin| User| Active| PersonalGroup
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| Paginated Reports| Octojay@example.com| Admin| User| Active| Workspace
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| Paginated Reports| DiegoS@example.com| Viewer| User| Active| Workspace
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| PR-1| Octojay@example.com| Admin| User| Active| Workspace
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| PR-1| AdeleV@example.com| Member| User| Active| Workspace
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| PR-1| DiegoS@example.com| Viewer| User| Active| Workspace
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| PersonalWorkspace Adele Vance| AdeleV@example.com| Admin| User| Active| PersonalGroup
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| Github| Octojay@example.com| Admin| User| Active| Workspace
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| Github| DiegoS@example.com| Viewer| User| Active| Workspace
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| JMOO Test| Octojay@example.com| Admin| User| Active| Workspace
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| JMOO Test| JohannaL@example.com| Member| User| Active| Workspace
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| JMOO Test| AdeleV@example.com| Member| User| Active| Workspace
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| JMOO Test| DiegoS@example.com| Viewer| User| Active| Workspace
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| PersonalWorkspace Johanna Lorenz| JohannaL@example.com| Admin| User| Active| PersonalGroup
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| PersonalWorkspace Diego Siciliani| DiegoS@example.com| Admin| User| Active| PersonalGroup
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| JMOO Test [Test]| Octojay@example.com| Admin| User| Active| Workspace
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| JMOO Test [Test]| DiegoS@example.com| Viewer| User| Active| Workspace
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| JMOO Test [Production]| Octojay@example.com| Admin| User| Active| Workspace
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| JMOO Test [Production]| DiegoS@example.com| Viewer| User| Active| Workspace
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| PersonalWorkspace Ebenezer Camino| ec-admin@example.com| Admin| User| Active| PersonalGroup
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| PersonalWorkspace Patti Fernandez| PattiF@example.com| Admin| User| Active| PersonalGroup
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| PersonalWorkspace Nestor Wilke| NestorW@example.com| Admin| User| Active| PersonalGroup
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| Microsoft 365 Usage Analytics| Octojay@example.com| Admin| User| Active| Workspace
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| Microsoft 365 Usage Analytics| DiegoS@example.com| Viewer| User| Active| Workspace
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| CLDemo| Octojay@example.com| Admin| User| Active| Workspace
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| CLDemo| DiegoS@example.com| Viewer| User| Active| Workspace
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| Admin monitoring| AdminInsights-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| Admin| User| Active| AdminWorkspace
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| Admin monitoring| | None| Group| Active| AdminWorkspace
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| Admin monitoring| DiegoS@example.com| Viewer| User| Active| AdminWorkspace
