@@ -1,33 +1,24 @@
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| Analyze Popular Stocks with Power BI| Octojay@example.com| Admin| User| Active| Workspace
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| Analyze Popular Stocks with Power BI| DiegoS@example.com| Viewer| User| Active| Workspace
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| Demo| Octojay@example.com| Admin| User| Active| Workspace
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| Demo| DiegoS@example.com| Viewer| User| Active| Workspace
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| My workspace| Octojay@example.com| Admin| User| Active| PersonalGroup
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| Paginated Reports| Octojay@example.com| Admin| User| Active| Workspace
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| Paginated Reports| DiegoS@example.com| Viewer| User| Active| Workspace
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| PR-1| Octojay@example.com| Admin| User| Active| Workspace
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| PR-1| AdeleV@example.com| Member| User| Active| Workspace
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| PR-1| DiegoS@example.com| Viewer| User| Active| Workspace
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| PersonalWorkspace Adele Vance| AdeleV@example.com| Admin| User| Active| PersonalGroup
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| Github| Octojay@example.com| Admin| User| Active| Workspace
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| Github| DiegoS@example.com| Viewer| User| Active| Workspace
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| JMOO Test| Octojay@example.com| Admin| User| Active| Workspace
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| JMOO Test| JohannaL@example.com| Member| User| Active| Workspace
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| JMOO Test| AdeleV@example.com| Member| User| Active| Workspace
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| JMOO Test| DiegoS@example.com| Viewer| User| Active| Workspace
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| PersonalWorkspace Johanna Lorenz| JohannaL@example.com| Admin| User| Active| PersonalGroup
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| PersonalWorkspace Diego Siciliani| DiegoS@example.com| Admin| User| Active| PersonalGroup
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| JMOO Test [Test]| Octojay@example.com| Admin| User| Active| Workspace
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| JMOO Test [Test]| DiegoS@example.com| Viewer| User| Active| Workspace
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| JMOO Test [Production]| Octojay@example.com| Admin| User| Active| Workspace
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| JMOO Test [Production]| DiegoS@example.com| Viewer| User| Active| Workspace
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| PersonalWorkspace Ebenezer Camino| ec-admin@example.com| Admin| User| Active| PersonalGroup
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| PersonalWorkspace Patti Fernandez| PattiF@example.com| Admin| User| Active| PersonalGroup
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| PersonalWorkspace Nestor Wilke| NestorW@example.com| Admin| User| Active| PersonalGroup
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| Microsoft 365 Usage Analytics| Octojay@example.com| Admin| User| Active| Workspace
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| Microsoft 365 Usage Analytics| DiegoS@example.com| Viewer| User| Active| Workspace
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| CLDemo| Octojay@example.com| Admin| User| Active| Workspace
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| CLDemo| DiegoS@example.com| Viewer| User| Active| Workspace
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| Admin monitoring| AdminInsights-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| Admin| User| Active| AdminWorkspace
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| Admin monitoring| | None| Group| Active| AdminWorkspace
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx| Admin monitoring| DiegoS@example.com| Viewer| User| Active| AdminWorkspace
+﻿75c607d9-56d1-4519-b8a1-0000000000a1| Analyze Popular Stocks with Power BI| John Smith| jm-admin@sample.onmicrosoft.com| Admin
+75c607d9-56d1-4519-b8a1-0000000000a1| Analyze Popular Stocks with Power BI| Diego Siciliani| DiegoS@sample.onmicrosoft.com| Viewer
+55a9e9f8-09cc-41fe-9d47-0000000000a2| Demo| John Smith| jm-admin@sample.onmicrosoft.com| Admin
+55a9e9f8-09cc-41fe-9d47-0000000000a2| Demo| Diego Siciliani| DiegoS@sample.onmicrosoft.com| Viewer
+4a34e69a-bd50-42f3-b843-0000000000a3| Paginated Reports| John Smith| jm-admin@sample.onmicrosoft.com| Admin
+4a34e69a-bd50-42f3-b843-0000000000a4| Paginated Reports| Diego Siciliani| DiegoS@sample.onmicrosoft.com| Viewer
+56e5d13b-a0a2-49c9-bcd7-0000000000a4| PR-1| John Smith| jm-admin@sample.onmicrosoft.com| Admin
+56e5d13b-a0a2-49c9-bcd7-0000000000a4| PR-1| Adele Vance| AdeleV@sample.onmicrosoft.com| Member
+56e5d13b-a0a2-49c9-bcd7-0000000000a4| PR-1| Diego Siciliani| DiegoS@sample.onmicrosoft.com| Viewer
+543fecd4-ff98-4647-a0ff-0000000000a5| Github| John Smith| jm-admin@sample.onmicrosoft.com| Admin
+543fecd4-ff98-4647-a0ff-0000000000a5| Github| Diego Siciliani| DiegoS@sample.onmicrosoft.com| Viewer
+282f42f9-551f-4dfa-a1da-0000000000a6| JMOO Test| John Smith| jm-admin@sample.onmicrosoft.com| Admin
+282f42f9-551f-4dfa-a1da-0000000000a6| JMOO Test| Adele Vance| AdeleV@sample.onmicrosoft.com| Member
+282f42f9-551f-4dfa-a1da-0000000000a6| JMOO Test| Johanna Lorenz| JohannaL@sample.onmicrosoft.com| Member
+282f42f9-551f-4dfa-a1da-0000000000a6| JMOO Test| Diego Siciliani| DiegoS@sample.onmicrosoft.com| Viewer
+ce788e98-36c3-45ae-9039-0000000000a7| JMOO Test [Test]| John Smith| jm-admin@sample.onmicrosoft.com| Admin
+ce788e98-36c3-45ae-9039-0000000000a7| JMOO Test [Test]| Diego Siciliani| DiegoS@sample.onmicrosoft.com| Viewer
+a320fa40-9704-4297-9473-0000000000a8| JMOO Test [Production]| John Smith| jm-admin@sample.onmicrosoft.com| Admin
+a320fa40-9704-4297-9473-0000000000a8| JMOO Test [Production]| Diego Siciliani| DiegoS@sample.onmicrosoft.com| Viewer
+1499bac7-a80c-425f-a351-0000000000a9| Microsoft 365 Usage Analytics| John Smith| jm-admin@sample.onmicrosoft.com| Admin
+1499bac7-a80c-425f-a351-0000000000a9| Microsoft 365 Usage Analytics| Diego Siciliani| DiegoS@sample.onmicrosoft.com| Viewer
+a97345df-2d12-4438-8318-0000000000B1| CLDemo| John Smith| jm-admin@sample.onmicrosoft.com| Admin
+a97345df-2d12-4438-8318-0000000000B1| CLDemo| Diego Siciliani| DiegoS@sample.onmicrosoft.com| Viewer
+
